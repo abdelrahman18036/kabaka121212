@@ -49,8 +49,10 @@ Here are some ideas to get you started:
 :blush: Technical Writing
 :smiley: Git
 :relaxed: NODEJS
-:optimistic: Python
+:astonished: Python
 :smiley: C++
+:heart_eyes: Jquery
+:hushed: UX&UI
 
 <br/>
 <br/>
