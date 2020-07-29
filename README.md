@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 :blush: Technical Writing
 :smiley: Git
 :relaxed: NODEJS
+:optimistic: Python
+:smiley: C++
 
 <br/>
 <br/>
