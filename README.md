@@ -25,9 +25,6 @@
 **Say Hi on Twitter([@abdelra29504016](https://twitter.com/abdelra29504016))!** :heart: 💬
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/abdelra29504016?style=social)](https://twitter.com/abdelra29504016)
-
-**Say Hi on Linkedin([@abdelrahman9bb4a8198](https://www.linkedin.com/in/abdelrahman-abdelnasser-gamal-9bb4a8198/))!** :heart: 💬
-
 <!--
 **pavlyhalim/pavlyhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
