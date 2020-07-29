@@ -49,6 +49,13 @@ Here are some ideas to get you started:
 :blush: Technical Writing
 :smiley: Git
 :relaxed: NODEJS
+<br/>
+<a href="https://github.com/kabaka121212">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kabaka121212&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabaka121212&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 
 ## Let's Connect :sunglasses:
 <p align="center">
