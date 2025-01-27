@@ -1,76 +1,105 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=90)
+![banner](./banner.png)
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFF&lines=Welcome+to+My+GitHub+Profile!+I'm+Abdelrahman+Abdelnasser+Gamal" />
+</div>
 
-**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/kabaka121212?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/abdelrahman.abdelnasser.gamal/) 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀʙᴅᴇʟʀᴀʜᴍᴀɴ ᴀʙᴅᴇʟɴᴀꜱꜱᴇʀ Gᴀᴍᴀʟ!
 
-<dl>
-  <dt>My Vision </dt>
-  <dd>Leaving everything digitalized</dd>
+<div>
+  <img align="right" width="40%" src="./owl.png">
+</div>
 
-  <dt>My Mission</dt>
-  <dd>Building solution to real life problems</dd>
-</dl>
-
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
-|-------------|-------------------|---|---|
-| [**COVID-19-Tracker**](https://github.com/kabaka121212/COVID-19-Tracker) | [![GitHub issues](https://img.shields.io/github/issues/kabaka121212/COVID-19-Tracker?color=green&logo=github&style=flat)](https://github.com/kabaka121212/COVID-19-Tracker/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/kabaka121212/COVID-19-Tracker?style=flat&logo=github)](https://github.com/kabaka121212/COVID-19-Tracker/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/kabaka121212/COVID-19-Tracker?style=flat&color=critical&logo=github)](https://github.com/kabaka121212/COVID-19-Tracker/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence**](https://github.com/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence) | [![GitHub issues](https://img.shields.io/github/issues/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence?color=green&logo=github&style=flat)](https://github.com/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence?style=flat&logo=github)](https://github.com/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence?style=flat&color=critical&logo=github)](https://github.com/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**ANTI-COVID-19 (Chat-App)**](https://github.com/kabaka121212/ANTI-COVID-19) | [![GitHub issues](https://img.shields.io/github/issues/kabaka121212/ANTI-COVID-19?color=green&logo=github&style=flat)](https://github.com/kabaka121212/ANTI-COVID-19/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/kabaka121212/ANTI-COVID-19?style=flat&logo=github)](https://github.com/kabaka121212/ANTI-COVID-19/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/kabaka121212/ANTI-COVID-19?style=flat&color=critical&logo=github)](https://github.com/kabaka121212/ANTI-COVID-19/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Movie-search-webapp-by-react**](https://github.com/kabaka121212/Movie-search-webapp-by-react) | [![GitHub issues](https://img.shields.io/github/issues/kabaka121212/Movie-search-webapp-by-react?color=green&logo=github&style=flat)](https://github.com/kabaka121212/Movie-search-webapp-by-react/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/kabaka121212/Movie-search-webapp-by-react?style=flat&logo=github)](https://github.com/kabaka121212/Movie-search-webapp-by-react/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/kabaka121212/Movie-search-webapp-by-react?style=flat&color=critical&logo=github)](https://github.com/kabaka121212/Movie-search-webapp-by-react/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Evaluate-a-News-Article-with-Natural-Language-Processing**](https://github.com/kabaka121212/Movie-search-webapp-by-react) | [![GitHub issues](https://img.shields.io/github/issues/kabaka121212/Evaluate-a-News-Article-with-Natural-Language-Processing?color=green&logo=github&style=flat)](https://github.com/kabaka121212/Evaluate-a-News-Article-with-Natural-Language-Processing/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/kabaka121212/Movie-search-webapp-by-react?style=flat&logo=github)](https://github.com/kabaka121212/Evaluate-a-News-Article-with-Natural-Language-Processing/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/kabaka121212/Evaluate-a-News-Article-with-Natural-Language-Processing?style=flat&color=critical&logo=github)](https://github.com/kabaka121212/Evaluate-a-News-Article-with-Natural-Language-Processing/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Pagerank**](https://github.com/kabaka121212/pagerank) | [![GitHub issues](https://img.shields.io/github/issues/kabaka121212/pagerank?color=green&logo=github&style=flat)](https://github.com/kabaka121212/pagerank/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/kabaka121212/pagerank?style=flat&logo=github)](https://github.com/kabaka121212/pagerank/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/kabaka121212/pagerank?style=flat&color=critical&logo=github)](https://github.com/kabaka121212/pagerank/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Weather-Journal-App**](https://github.com/kabaka121212/Weather-Journal-App) | [![GitHub issues](https://img.shields.io/github/issues/kabaka121212/Weather-Journal-App?color=green&logo=github&style=flat)](https://github.com/kabaka121212/Weather-Journal-App/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/kabaka121212/Weather-Journal-App?style=flat&logo=github)](https://github.com/kabaka121212/Weather-Journal-App/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/kabaka121212/Weather-Journal-App?style=flat&color=critical&logo=github)](https://github.com/kabaka121212/Weather-Journal-App/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**FEND-Capstone-Travel-App**](https://github.com/kabaka121212/FEND-Capstone-Travel-App) | [![GitHub issues](https://img.shields.io/github/issues/kabaka121212/FEND-Capstone-Travel-App?color=green&logo=github&style=flat)](https://github.com/kabaka121212/FEND-Capstone-Travel-App/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/kabaka121212/FEND-Capstone-Travel-App?style=flat&logo=github)](https://github.com/kabaka121212/FEND-Capstone-Travel-App/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/kabaka121212/FEND-Capstone-Travel-App?style=flat&color=critical&logo=github)](https://github.com/kabaka121212/FEND-Capstone-Travel-App/pulls?q=is%3Apr+is%3Aclosed)   |
-
-
-**Say Hi on Twitter([@abdelra29504016](https://twitter.com/abdelra29504016))!** :heart: 💬
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/abdelra29504016?style=social)](https://twitter.com/abdelra29504016)
-<!--
-**pavlyhalim/pavlyhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on AI Project:heart:
-- 🌱 I’m currently learning Computer vision
-- 👯 I’m looking to collaborate with My Friends
-- 🤔 I’m looking for help on finding a jop
-- 💬 Ask me about Skills
-- 📫 How to reach me: Facebook
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: Almost any powered with electricity needs to be coded. Can you imagine?!
--->
-
-## Skills
-:bowtie: HTML
-:smile: CSS
-:satisfied: JAVASCRIPT
-:laughing: REACT
-:blush: Technical Writing
-:smiley: Git
-:relaxed: NODEJS
-:astonished: Python
-:smiley: C++
-:heart_eyes: Jquery
-:hushed: UX&UI
-:smiley: Git
-:relaxed: Linux
-:satisfied: AI & Machine Learning
-
-
-
-<br/>
-<a href="https://github.com/kabaka121212">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelrahman18036&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman18036&theme=dracula&layout=compact" />
-</a>
-
-<br/>
-
-## Let's Connect :sunglasses:
-<p align="center">
-<a href="https://www.abdorange.me/"><img alt="Website" src="https://img.shields.io/badge/www.abdorange.me/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/abdelrahman-abdelnasser-gamal-9bb4a8198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Abdelnasser%20Gamal-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/abdelrahman.abdelnasser.gamal/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Abdelrahman-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:18036@stemegypt.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-18036@stemegypt.edu.eg-blue?style=flat-square&logo=gmail"></a>
+<!-- Start Intro -->
+<p align="left">
+I am Computer Science Senior at Ain Shams Universityand a Full Stack Developer and DevOps Enthusiast with a huge love for Python (Django , Flask), Javascript ( React.js, Node.js) RDBMS, REST API.
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things; I believe that every day is a learning opportunity.
+- 💁‍♂️ Trusted member and Moderator at Huawei Academy
+- ✍ See my CV on [CV](https://www.abdorange.me/Abdelrahman%20Abdelnasser.pdf).
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://www.abdorange.me/) for more details about me.
+
+<!-- End Intro -->
+
+## Latest Projects
+
+| Project                                                                                                        | Description                                                                                                        | Stars                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Library Inventory System**](https://github.com/abdelrahman18036/library-inventory-team3)                    | A comprehensive Library Inventory System designed to manage books within a library, including DevOps practices.    | [![GitHub stars](https://img.shields.io/github/stars/abdelrahman18036/library-inventory-team3?style=social)](https://github.com/abdelrahman18036/library-inventory-team3/stargazers)                           |
+| [**Ludus**](https://github.com/abdelrahman18036/ludus)                                                         | NFT marketplace focusing on digital asset trading using MERN stack (React & Node.js) tailored for the MENA region. | [![GitHub stars](https://img.shields.io/github/stars/abdelrahman18036/ludus?style=social)](https://github.com/abdelrahman18036/ludus/stargazers)                                                               |
+| [**E-commerce Flutter App**](https://github.com/abdelrahman18036/ecommerce_flutter_app)                        | An e-commerce application built with Flutter and integrated with Firebase for backend services.                    | [![GitHub stars](https://img.shields.io/github/stars/abdelrahman18036/ecommerce_flutter_app?style=social)](https://github.com/abdelrahman18036/ecommerce_flutter_app/stargazers)                               |
+| [**Event Management System**](https://github.com/abdelrahman18036/event-management-system)                     | Event Management System developed using Angular for frontend and Django for backend.                               | [![GitHub stars](https://img.shields.io/github/stars/abdelrahman18036/event-management-system?style=social)](https://github.com/abdelrahman18036/event-management-system/stargazers)                           |
+| [**Real-Time Chat (Django & Vite)**](https://github.com/abdelrahman18036/Real-Time-Chat-using-Django-and-Vite) | Real-Time Chat application utilizing Django for backend and React (Vite) for frontend.                             | [![GitHub stars](https://img.shields.io/github/stars/abdelrahman18036/Real-Time-Chat-using-Django-and-Vite?style=social)](https://github.com/abdelrahman18036/Real-Time-Chat-using-Django-and-Vite/stargazers) |
+| [**Eye of Horus**](https://github.com/abdelrahman18036/Eye-of-Horus)                                           | Satellites Tracker developed using jQuery for real-time tracking and data visualization.                           | [![GitHub stars](https://img.shields.io/github/stars/abdelrahman18036/Eye-of-Horus?style=social)](https://github.com/abdelrahman18036/Eye-of-Horus/stargazers)                                                 |
+
+---
+
+## Skills & Animation
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🛠️ Skills
+
+<div style="display: flex; flex-wrap: wrap;">
+  <span style="background-color:#e34c26; color:white; padding:5px 10px; border-radius:5px; margin:5px;">HTML</span>
+  <span style="background-color:#264de4; color:white; padding:5px 10px; border-radius:5px; margin:5px;">CSS</span>
+  <span style="background-color:#f0db4f; color:black; padding:5px 10px; border-radius:5px; margin:5px;">JavaScript</span>
+  <span style="background-color:#61dafb; color:black; padding:5px 10px; border-radius:5px; margin:5px;">React</span>
+  <span style="background-color:#092E20; color:white; padding:5px 10px; border-radius:5px; margin:5px;">Django</span>
+  <span style="background-color:#f1502f; color:white; padding:5px 10px; border-radius:5px; margin:5px;">Git</span>
+  <span style="background-color:#68a063; color:white; padding:5px 10px; border-radius:5px; margin:5px;">Node.js</span>
+  <span style="background-color:#3776ab; color:white; padding:5px 10px; border-radius:5px; margin:5px;">Python</span>
+  <span style="background-color:#00599C; color:white; padding:5px 10px; border-radius:5px; margin:5px;">C++</span>
+  <span style="background-color:#0769AD; color:white; padding:5px 10px; border-radius:5px; margin:5px;">jQuery</span>
+  <span style="background-color:#FF6F61; color:white; padding:5px 10px; border-radius:5px; margin:5px;">UX & UI Design</span>
+  <span style="background-color:#FCC624; color:black; padding:5px 10px; border-radius:5px; margin:5px;">Linux</span>
+  <span style="background-color:#FF9900; color:white; padding:5px 10px; border-radius:5px; margin:5px;">AI & Machine Learning</span>
+  <span style="background-color:#6a1b9a; color:white; padding:5px 10px; border-radius:5px; margin:5px;">DevOps</span>
+  <span style="background-color:#7B42BC; color:white; padding:5px 10px; border-radius:5px; margin:5px;">Terraform</span>
+  <span style="background-color:#FF9900; color:white; padding:5px 10px; border-radius:5px; margin:5px;">AWS</span>
+  <span style="background-color:#FF0000; color:white; padding:5px 10px; border-radius:5px; margin:5px;">Huawei Cloud</span>
+  <span style="background-color:#FF0000; color:white; padding:5px 10px; border-radius:5px; margin:5px;">Oracle Cloud</span>
+  <span style="background-color:#336791; color:white; padding:5px 10px; border-radius:5px; margin:5px;">PostgreSQL</span>
+  <span style="background-color:#7A87A1; color:white; padding:5px 10px; border-radius:5px; margin:5px;">OpenEuler</span>
+  <span style="background-color:#4C1F91; color:white; padding:5px 10px; border-radius:5px; margin:5px;">OpenGauss</span>
+  <span style="background-color:#1E90FF; color:white; padding:5px 10px; border-radius:5px; margin:5px;">Docker</span>
+  <span style="background-color:#326CE5; color:white; padding:5px 10px; border-radius:5px; margin:5px;">Kubernetes</span>
+  <span style="background-color:#000000; color:white; padding:5px 10px; border-radius:5px; margin:5px;">Bash</span>
+  <span style="background-color:#000000; color:white; padding:5px 10px; border-radius:5px; margin:5px;">Flask</span>
+  <span style="background-color:#4FC08D; color:white; padding:5px 10px; border-radius:5px; margin:5px;">Vue.js</span>
+</div>
+
+<td width="50%" valign="top" align="center">
+
+![Skills Animation](./Skills_Animation_Dark.gif)
+
+  </tr>
+</table>
+
+---
+
+## Top Contributions
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelrahman18036&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman18036&theme=dark&layout=compact" />
+</p>
+
+---
+
+## Let's Connect :sunglasses:
+
+<p align="center">
+  <a href="https://www.abdorange.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.abdorange.me-a6220a?style=flat-square&logo=google-chrome"></a>
+  <a href="mailto:abdelrahman.18036@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abdelrahman.18036@gmail.com-a6220a?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/abdelrahman18036/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Abdelnasser%20Gamal-a6220a?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.facebook.com/orange18036/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%40orange18036-a6220a?style=flat-square&logo=facebook"></a>
+  <a href="https://www.instagram.com/orange18036"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40orange18036-a6220a?style=flat-square&logo=instagram"></a>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=a6220a&height=150&section=footer)
